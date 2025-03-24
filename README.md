@@ -7,5 +7,4 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on learning data analysis skills in R-studio and GIS for my courses. 
 - 🌱 I’m currently learning environmental management as a master's student at Duke University. 
-- git_repository link: 
--->
+- [git_repositor](https://github.com/Rachel-W-env/Rachel-W-env)
