@@ -1,8 +1,9 @@
 ## Hi there 👋
 
-I’m currently learning environmental management as a master's student at Duke 
-University. I’m practicing my data analysis skills in R-studio and GIS for my 
-courses due to my concentration in Data Analytics and Modelling. 
+I’m an master's student in Environmental Management at Duke University. I have 
+bachelors degrees in Biology and Sustainability Studies. I’m currently working 
+to learn and improve my data analysis skills in R-studio and GIS for my courses 
+due to my concentration in Data Analytics and Modelling. 
 
 
 ![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9vHHxaG-7XQu1lIBaHvKsFsNRZbrddXM03w&s)
