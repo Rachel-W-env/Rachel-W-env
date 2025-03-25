@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I’m currently learning environmental management as a master's student at Duke 
+University. I’m practicing my data analysis skills in R-studio and GIS for my 
+courses due to my concentration in Data Analytics and Modelling. 
+[git_repository](https://github.com/Rachel-W-env/Rachel-W-env)
+
+
 <!--
 **Rachel-W-env/Rachel-W-env** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
