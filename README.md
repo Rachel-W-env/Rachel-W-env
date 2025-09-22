@@ -2,7 +2,7 @@
 
 I’m an master's student in Environmental Management at Duke University. I have 
 bachelors degrees in Biology and Sustainability Studies. I’m currently working 
-to learn more about coding and improve my data analysis skills in R-studio and 
+to learn more about coding and improve my data analysis skills in Python, R-studio, and 
 GIS. 
 
 
